@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\user\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\user\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\user\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\user\documents\visual studio 2013\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\mscorlib.dll
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\de\mscorlib.resources.dll
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\normidna.nlp
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\normnfc.nlp
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\normnfd.nlp
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\normnfkc.nlp
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\bin\Debug\normnfkd.nlp
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Ark\Documents\GitHub\C-SHARP\MwSBerechner\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
