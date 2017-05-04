@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\kugelberechnung\kugelberechnung\bin\Debug\kugelberechnung.exe.config
+c:\users\user\documents\visual studio 2013\Projects\kugelberechnung\kugelberechnung\bin\Debug\kugelberechnung.exe
+c:\users\user\documents\visual studio 2013\Projects\kugelberechnung\kugelberechnung\bin\Debug\kugelberechnung.pdb
+c:\users\user\documents\visual studio 2013\Projects\kugelberechnung\kugelberechnung\obj\Debug\kugelberechnung.exe
+c:\users\user\documents\visual studio 2013\Projects\kugelberechnung\kugelberechnung\obj\Debug\kugelberechnung.pdb
