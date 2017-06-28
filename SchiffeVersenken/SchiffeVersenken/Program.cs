@@ -17,27 +17,12 @@ namespace SchiffeVersenken_Console
         private static int maxShots = 55;
         private static int firedShots = 0;
         private static int hits = 0;
-        private static string intro =
-         @"                     " +  "\n" +
-         @"      ./|\.          " +  "\n" +
-         @"    ./ /| `\.        " +  "\n" +
-         @"   /  | |   `\.      " +  "\n" +
-         @"  |   | |     `\.    " +  "\n" +
-         @"  |    \|       `\.  " +  "\n" +
-         @".  `----|__________\." +  "\n" +
-         @" \-----''----.....___" +  "\n" +
-         @"  \               ""/" +  "\n" +
-         @"~^~^~^~^~^`~^~^`^~^~^" +  "\n" +
-         @"~^~^~`~~^~^`~^~^~`~~^";   
+ 
         static void Main(string[] args)
         {
             while (isRunning)
             {
-                Console.WriteLine(intro);
-                Console.WriteLine("Schiffeversenken");
-                Console.ReadKey();
-                StartMatch();
-                      
+                StartMatch();   
             }
         }
 

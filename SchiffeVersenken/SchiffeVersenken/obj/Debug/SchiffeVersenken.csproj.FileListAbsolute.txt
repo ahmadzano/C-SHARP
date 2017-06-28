@@ -1,0 +1,5 @@
+C:\Users\N2GO-49\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\bin\Debug\SchiffeVersenken.exe.config
+C:\Users\N2GO-49\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\bin\Debug\SchiffeVersenken.exe
+C:\Users\N2GO-49\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\bin\Debug\SchiffeVersenken.pdb
+C:\Users\N2GO-49\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\obj\Debug\SchiffeVersenken.exe
+C:\Users\N2GO-49\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\obj\Debug\SchiffeVersenken.pdb
