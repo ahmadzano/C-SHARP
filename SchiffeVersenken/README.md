@@ -1,4 +1,4 @@
 # SchiffeVersenken
-##Copyrights:
- * geklaut ;p
- * Lennart, Bennet. Klaut es nicht!
+## contributors:
+ * Ahmad Ahmad
+ * Ali Ismail
