@@ -1,34 +1,31 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using SchiffeVersenken.Data;
 
-namespace SchiffeVersenken.Logic
+namespace SchiffeVersenken.Conntroller
+
 {
-    public class LogicHandler
+    public class Conntroller
     {
-        private GameMap _Map;
+        private Map _Map;
         private Random _Random;
 
-        public LogicHandler()
+        public Conntroller()
         {
-            _Map = new GameMap(10, 10);
+            _Map = new Map(10, 10);
             _Random = new Random();
             while (!PopulateMap(_Map))
             {
-                _Map = new GameMap(10, 10);
+                _Map = new Map(10, 10);
             }
         }
 
-        public GameMap GetMap()
+        public Map GetMap()
         {
             return _Map;
         }
 
-        private bool PopulateMap(GameMap oMap)
+        private bool PopulateMap(Map oMap)
         {
             int counter = 0;
             List<Ship> oShipList = GenerateShips();

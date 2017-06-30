@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="LogicHandler.cs" />
+    <Compile Include="Controller.cs" />
     <Compile Include="Ship.cs" />
     <Compile Include="Position.cs" />
     <Compile Include="Field.cs" />

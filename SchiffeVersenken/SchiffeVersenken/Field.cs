@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace SchiffeVersenken.Data
 {
     public enum Field { NONE = 0, SHIP = 1, HIT = -1, MISS = -2 }
 
-    public class GameMap
+    public class Map
     {
         private int[,] _Map;
         private int[,] _BlockMap;
@@ -35,7 +33,7 @@ namespace SchiffeVersenken.Data
             get { return _Map.GetLength(1); }
         }
 
-        public GameMap(int height, int width)
+        public Map(int height, int width)
         {
             _Map = new int[height, width];
             _BlockMap = new int[height, width];

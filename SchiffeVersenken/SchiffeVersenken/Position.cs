@@ -2,7 +2,6 @@
 
 namespace SchiffeVersenken.Data
 {
-
     public class Position
     {
         public static Position LEFT = new Position(-1, 0);

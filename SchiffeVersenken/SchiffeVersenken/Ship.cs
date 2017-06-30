@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SchiffeVersenken.Data
+﻿namespace SchiffeVersenken.Data
 {
     public enum Size { UBOOT = 2, ZERSTOERER = 3, KREUZER = 4, SCHLACHTSCHIFF = 5 }
     public enum Direction { RIGHT, DOWN, LEFT, UP }
