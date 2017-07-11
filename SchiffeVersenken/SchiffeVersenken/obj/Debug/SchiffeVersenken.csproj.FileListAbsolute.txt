@@ -10,3 +10,9 @@ C:\Users\Ark\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\bin\Debu
 C:\Users\Ark\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\obj\Debug\SchiffeVersenken.csprojResolveAssemblyReference.cache
 C:\Users\Ark\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\obj\Debug\SchiffeVersenken.exe
 C:\Users\Ark\Documents\GitHub\C-SHARP\SchiffeVersenken\SchiffeVersenken\obj\Debug\SchiffeVersenken.pdb
+C:\Users\user\Desktop\C-SHARP\SchiffeVersenken\SchiffeVersenken\bin\Debug\SchiffeVersenken.exe.config
+C:\Users\user\Desktop\C-SHARP\SchiffeVersenken\SchiffeVersenken\obj\Debug\SchiffeVersenken.exe
+C:\Users\user\Desktop\C-SHARP\SchiffeVersenken\SchiffeVersenken\obj\Debug\SchiffeVersenken.pdb
+C:\Users\user\Desktop\C-SHARP\SchiffeVersenken\SchiffeVersenken\bin\Debug\SchiffeVersenken.exe
+C:\Users\user\Desktop\C-SHARP\SchiffeVersenken\SchiffeVersenken\bin\Debug\SchiffeVersenken.pdb
+C:\Users\user\Desktop\C-SHARP\SchiffeVersenken\SchiffeVersenken\obj\Debug\SchiffeVersenken.csprojResolveAssemblyReference.cache

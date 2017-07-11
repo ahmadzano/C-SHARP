@@ -7,8 +7,14 @@ namespace SchiffeVersenken_Console
     class Program
     {
         private static ConsoleColor bg_default = Console.BackgroundColor;
+
+        //isRunning enscheidet ob das spiel weiterläuft.
         private static bool isRunning = true;
+
+        //Anzahl der benötgigten Treffens um zu gewinnen.
         private static int maxHits = 30;
+        
+        //Anzahl der maximalen Versuchen.
         private static int maxShots = 55;
         private static int firedShots = 0;
         private static int hits = 0;
@@ -16,7 +22,7 @@ namespace SchiffeVersenken_Console
         static void Main(string[] args)
         {
             while (isRunning)
-            {
+            { 
                 try
                 {
                     Console.Clear();
@@ -148,6 +154,39 @@ namespace SchiffeVersenken_Console
                             000000000000000####__________________________####000000000000000
                             0000000000000000000#####________________#####0000000000000000000
                             000000000000000000000000################000000000000000000000000";
+        }
+
+        // optionale Funtion um alle Schiffe offen legen
+        static void exposeShips()
+        {
+
+            Conntroller gameLogic = new Conntroller();
+            Map map = gameLogic.GetMap();
+            int[,] spielFeld = new Int32[10, 10];
+
+
+            Console.BackgroundColor = bg_default;
+            Console.WriteLine("    0  1  2  3  4  5  6  7  8  9   X");
+            for (int i = 0; i < map.Length; i++)
+            {
+                Console.BackgroundColor = bg_default;
+                Console.Write(" " + i + " ");
+                for (int j = 0; j < map.Height; j++)
+                {
+                    switch (map[i, j])
+                    {
+                        case 1:
+                            Console.BackgroundColor = ConsoleColor.Red; break;
+                        default:
+                            Console.BackgroundColor = ConsoleColor.Blue; break;
+                    }
+                    Console.Write("   ");
+                }
+                Console.WriteLine();
+            }
+            Console.BackgroundColor = bg_default;
+            Console.WriteLine(" Y");
+
         }
     }
 }
