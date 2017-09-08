@@ -1,0 +1,6 @@
+C:\quersumme\quersumme\quersumme\obj\Debug\quersumme.csprojResolveAssemblyReference.cache
+C:\quersumme\quersumme\quersumme\bin\Debug\quersumme.exe.config
+C:\quersumme\quersumme\quersumme\bin\Debug\quersumme.exe
+C:\quersumme\quersumme\quersumme\bin\Debug\quersumme.pdb
+C:\quersumme\quersumme\quersumme\obj\Debug\quersumme.exe
+C:\quersumme\quersumme\quersumme\obj\Debug\quersumme.pdb
