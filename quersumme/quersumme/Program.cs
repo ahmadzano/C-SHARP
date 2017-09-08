@@ -14,9 +14,9 @@ namespace quersumme
 	{
 		public static void Main(string[] args)
 		{
-			
-			int zahl = 579;
-			
+			getNumbersWithCrossSum15();
+				
+			int zahl = 5759;
 			zahl = calcCrosSum(zahl);
 			Console.Write(zahl);
 			Console.ReadKey(true);
@@ -24,7 +24,6 @@ namespace quersumme
 		
 
 		//Aufgabe 1 
-		//
 		public static int calcCrosSum(int number) 
 		{
 			// modulo anwenden um die Reste zu finden
@@ -43,5 +42,26 @@ namespace quersumme
 			
 			return number;
 		}
+		
+		//Aufgabe 2
+		public static void getNumbersWithCrossSum15()
+		{
+			for (int i=0; i <= 1000; i++) {
+				if (i > 9) {
+					int currentNumber = i;
+					int moduloRest = i % 10;
+					i = i - moduloRest;
+					int result = i / 10;
+					
+					if (result == 15) {
+						Console.WriteLine(currentNumber);
+					}
+				}
+				
+				
+			}
+		}
+		
+		
 	}
 }
