@@ -1,0 +1,6 @@
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\user\Documents\Visual Studio 2017\Projects\Bank\Bank\obj\Debug\Bank.pdb
