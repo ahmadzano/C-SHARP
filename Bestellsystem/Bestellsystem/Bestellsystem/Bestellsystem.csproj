@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Artikel.cs" />
+    <Compile Include="Bestellposition.cs" />
     <Compile Include="FoodArtikel.cs" />
     <Compile Include="Lager.cs" />
     <Compile Include="NonFoodArtikel.cs" />
