@@ -14,10 +14,6 @@ namespace Bestellsystem
         Double Lagerstand { set; get; }
         Double LagerMidestBestand { set; get; }
         Lager Lager { set; get; }
-        Lieferant Liferant { set; get; }
-        Double Einkaufspreis { set; get; }
-        int Lieferziet { set; get; }
-
 
     }
 }

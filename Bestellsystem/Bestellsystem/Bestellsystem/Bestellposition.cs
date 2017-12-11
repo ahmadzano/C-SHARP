@@ -10,5 +10,8 @@ namespace Bestellsystem
     {
         Artikel Artikel { set; get; }
         Double Anzahl { set; get; }
+        Lieferant Lieferant { set; get; }
+        Double Einkaufspreis { set; get; }
+        int Lieferziet { set; get; }
     }
 }

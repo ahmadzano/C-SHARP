@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Bestellsystem
 {
-    class FoodArtikel: Artikel
+    class Bestellung
     {
-        DateTime HaltbarkeitsDauer { set; get; }
-        String Kuehlungsart { set; get; }
+        int Nummer { set; get; }
+        DateTime Bestelldatum { set; get; }
+        List<Bestellposition> Bestellpositionen { set; get; }
     }
 }

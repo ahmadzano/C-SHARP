@@ -46,6 +46,7 @@
     <Compile Include="Artikel.cs" />
     <Compile Include="AuslandischerLieferant.cs" />
     <Compile Include="Bestellposition.cs" />
+    <Compile Include="Bestellung.cs" />
     <Compile Include="FoodArtikel.cs" />
     <Compile Include="Lager.cs" />
     <Compile Include="Lieferant.cs" />
