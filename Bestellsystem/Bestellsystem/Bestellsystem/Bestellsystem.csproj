@@ -42,10 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adresse.cs" />
     <Compile Include="Artikel.cs" />
     <Compile Include="Bestellposition.cs" />
     <Compile Include="FoodArtikel.cs" />
     <Compile Include="Lager.cs" />
+    <Compile Include="Lieferant.cs" />
     <Compile Include="NonFoodArtikel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
