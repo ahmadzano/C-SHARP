@@ -8,12 +8,12 @@ namespace Bestellsystem
 {
     abstract class Artikel
     {
-        int Nummer { set; get; }
-        String Bezeichnung { set; get; }
-        String Verpackungsatr { set; get; }
-        Double Lagerstand { set; get; }
-        Double LagerMidestBestand { set; get; }
-        Lager Lager { set; get; }
-
+        public int Nummer { set; get; }
+        public String Bezeichnung { set; get; }
+        public String Verpackungsatr { set; get; }
+        public Double Lagerstand { set; get; }
+        public Double LagerMidestBestand { set; get; }
+        public List<Lager> lager;
+        public Lieferkondition Lieferkondition { set; get; }
     }
 }

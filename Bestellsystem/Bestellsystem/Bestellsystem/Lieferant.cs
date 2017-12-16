@@ -11,6 +11,6 @@ namespace Bestellsystem
         int Id { set; get; }
         String Name { set; get; }
         int Telefonnummer { set; get; }
-        Adresse Adresse { set; get; }
+        List<Adresse> adressen;
     }
 }

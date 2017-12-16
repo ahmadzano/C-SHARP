@@ -8,12 +8,12 @@ namespace Bestellsystem
 {
     class Lager
     {
-        private int Number { set; get; }
+        private int Nummer { set; get; }
         private String Name { set; get; }
 
         public Lager(int number, string name)
         {
-            this.Number = number;
+            this.Nummer = number;
             this.Name = name;
         }
     }

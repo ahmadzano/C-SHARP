@@ -8,6 +8,6 @@ namespace Bestellsystem
 {
     class NonFoodArtikel : Artikel
     {
-        bool isSperrgut { set; get; }
+        bool IstSperrgut { set; get; }
     }
 }

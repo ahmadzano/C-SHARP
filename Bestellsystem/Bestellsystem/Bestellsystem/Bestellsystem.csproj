@@ -50,6 +50,7 @@
     <Compile Include="FoodArtikel.cs" />
     <Compile Include="Lager.cs" />
     <Compile Include="Lieferant.cs" />
+    <Compile Include="Lieferkondition.cs" />
     <Compile Include="NonFoodArtikel.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
