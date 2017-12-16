@@ -10,7 +10,7 @@ namespace Bestellsystem
     {
         public int Nummer { set; get; }
         public String Bezeichnung { set; get; }
-        public String Verpackungsatr { set; get; }
+        public String Verpackungsart { set; get; }
         public Double Lagerstand { set; get; }
         public Double LagerMidestBestand { set; get; }
         public List<Lager> lager;

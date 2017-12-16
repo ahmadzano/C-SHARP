@@ -31,6 +31,16 @@ namespace Bestellsystem
             Lieferant lieferant_4 = new AuslandischerLieferant(103, "Çomerîo EG", 52753212, "Syrien", false);
             lieferant_4.adressen.Add(adress_4);
 
+            //Artikel Objekte anlegen
+            NonFoodArtikel beton = new NonFoodArtikel
+            {
+                Nummer = 385,
+                Bezeichnung = "Beton",
+                Verpackungsart = null,
+                Lagerstand = 5,
+                LagerMidestBestand = 2
+            };
+            beton.lager.Add(westenLager);
 
         }
     }
