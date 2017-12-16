@@ -8,9 +8,16 @@ namespace Bestellsystem
 {
     class Lieferant
     {
-        int Id { set; get; }
-        String Name { set; get; }
-        int Telefonnummer { set; get; }
-        List<Adresse> adressen;
+        public int Id { set; get; }
+        public String Name { set; get; }
+        public int Telefonnummer { set; get; }
+        public List<Adresse> adressen;
+
+        public Lieferant(int id, String name, int telefonNummer)
+        {
+            this.Id = id;
+            this.Name = name;
+            this.Telefonnummer = telefonNummer;
+        }
     }
 }

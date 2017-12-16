@@ -8,10 +8,18 @@ namespace Bestellsystem
 {
     class Adresse
     {
-        String Strasse { set; get; }
+        public String Strasse { set; get; }
         List<String> zusaetzlicheInfo;
-        int Hausnummer { set; get; }
-        int PLZ { set; get; }
-        String Ort { set; get; }
+        public int Hausnummer { set; get; }
+        public int PLZ { set; get; }
+        public String Ort { set; get; }
+
+        public Adresse(String strasse, int hausnummer, int plz, String ort)
+        {
+            this.Strasse = strasse;
+            this.Hausnummer = hausnummer;
+            this.PLZ = plz;
+            this.Ort = ort;
+        }
     }
 }
