@@ -8,7 +8,18 @@ namespace Bestellsystem
 {
     class Bestellposition
     {
+        /// <summery> getter und setter
+        /// <return>
+        ///     Artikel
+        /// </return>
+        /// </summery>
         Artikel Artikel { set; get; }
+
+        /// <summary> getter uns setter
+        /// <retun>
+        ///     Double
+        /// </retun>
+        /// </summary>
         Double Anzahl { set; get; }
     }
 }

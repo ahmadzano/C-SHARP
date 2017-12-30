@@ -8,7 +8,18 @@ namespace Bestellsystem
 {
     class Lager
     {
+        /// <summery> getter und setter
+        /// <return>
+        ///     int
+        /// </return>
+        /// </summery>
         private int Nummer { set; get; }
+
+        /// <summery> getter und setter
+        /// <return>
+        ///     String
+        /// </return>
+        /// </summery>
         private String Name { set; get; }
 
         public Lager(int number, string name)

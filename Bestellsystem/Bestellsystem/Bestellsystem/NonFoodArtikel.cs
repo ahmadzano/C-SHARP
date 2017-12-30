@@ -8,6 +8,11 @@ namespace Bestellsystem
 {
     class NonFoodArtikel : Artikel
     {
+        /// <summery> getter und setter
+        /// <return>
+        /// bool | void
+        /// </return>
+        /// </summery>
         bool IstSperrgut { set; get; }
     }
 }
