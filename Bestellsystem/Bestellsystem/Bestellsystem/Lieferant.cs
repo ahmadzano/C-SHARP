@@ -29,7 +29,7 @@ namespace Bestellsystem
         /// </summery>
         public int Telefonnummer { set; get; }
 
-        /// <summery> getter und setter
+        /// <summery> Liste von Adressen Instazen
         /// <return>
         /// <list type="Adresse">
         /// <item type="String">
