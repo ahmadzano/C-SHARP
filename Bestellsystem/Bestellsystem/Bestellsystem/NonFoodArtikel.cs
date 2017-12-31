@@ -13,6 +13,6 @@ namespace Bestellsystem
         /// bool | void
         /// </return>
         /// </summery>
-        bool IstSperrgut { set; get; }
+        public bool IstSperrgut { set; get; }
     }
 }

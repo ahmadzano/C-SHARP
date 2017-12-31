@@ -9,17 +9,17 @@ namespace Bestellsystem
     class FoodArtikel: Artikel
     {
         /// <summery> getter und setter
-        /// <return>
+        /// <returns>
         ///     DateTime
-        /// </return>
+        /// </returns>
         /// </summery>
-        DateTime HaltbarkeitsDauer { set; get; }
+        public DateTime HaltbarkeitsDauer { set; get; }
 
         /// <summery> getter und setter
-        /// <return>
+        /// <returns>
         ///     String
-        /// </return>
+        /// </returns>
         /// </summery>
-        String Kuehlungsart { set; get; }
+        public String Kuehlungsart { set; get; }
     }
 }

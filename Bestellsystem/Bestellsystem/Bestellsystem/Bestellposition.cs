@@ -13,13 +13,13 @@ namespace Bestellsystem
         ///     Artikel
         /// </return>
         /// </summery>
-        Artikel Artikel { set; get; }
+        public Artikel Artikel { set; get; }
 
         /// <summary> getter uns setter
         /// <retun>
         ///     Double
         /// </retun>
         /// </summary>
-        Double Anzahl { set; get; }
+        public Double Anzahl { set; get; }
     }
 }

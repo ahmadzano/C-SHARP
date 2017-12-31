@@ -55,7 +55,7 @@ namespace Bestellsystem
         /// </list>
         /// </return>
         /// </summery>
-        public List<Lager> lager;
+        public List<Lager> lager = new List<Lager>();
 
         /// <summary> getter und setter
         /// <return>

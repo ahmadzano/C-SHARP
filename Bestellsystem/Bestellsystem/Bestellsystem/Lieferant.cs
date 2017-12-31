@@ -47,7 +47,7 @@ namespace Bestellsystem
         /// </list>
         /// </return>
         /// </summery>
-        public List<Adresse> adressen;
+        public List<Adresse> adressen = new List<Adresse>();
 
         public Lieferant(int id, String name, int telefonNummer)
         {

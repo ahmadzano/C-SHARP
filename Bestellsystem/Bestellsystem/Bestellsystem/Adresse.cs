@@ -25,7 +25,7 @@ namespace Bestellsystem
         /// </list>
         /// </return>
         /// </summery>
-        List<String> zusaetzlicheInfo;
+        List<String> zusaetzlicheInfo = new List<String>();
 
         /// <summer> getter und setter
         /// <return>

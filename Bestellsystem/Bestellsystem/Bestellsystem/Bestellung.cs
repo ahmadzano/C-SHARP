@@ -13,18 +13,18 @@ namespace Bestellsystem
         ///     int
         /// </retun>
         /// </summary>
-        int Nummer { set; get; }
+        public int Nummer { set; get; }
 
         /// <summary> getter uns setter
         /// <retun>
         ///     DateTime
         /// </retun>
         /// </summary>
-        DateTime Bestelldatum { set; get; }
+        public DateTime Bestelldatum { set; get; }
 
-        /// <summery> getter und setter
+        /// <summery>
         /// <return>
-        /// <list type="Lager">
+        /// <list type="Bestellposition">
         /// <item type="Artikel">
         ///     Artikel
         /// </item>
@@ -34,6 +34,6 @@ namespace Bestellsystem
         /// </list>
         /// </return>
         /// </summery>
-        List<Bestellposition> Bestellpositionen { set; get; }
+        public List<Bestellposition> Bestellpositionen = new List<Bestellposition>();
     }
 }

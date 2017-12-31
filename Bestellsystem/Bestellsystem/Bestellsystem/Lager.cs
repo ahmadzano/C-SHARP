@@ -13,14 +13,14 @@ namespace Bestellsystem
         ///     int
         /// </return>
         /// </summery>
-        private int Nummer { set; get; }
+        public int Nummer { set; get; }
 
         /// <summery> getter und setter
         /// <return>
         ///     String
         /// </return>
         /// </summery>
-        private String Name { set; get; }
+        public String Name { set; get; }
 
         public Lager(int number, string name)
         {
